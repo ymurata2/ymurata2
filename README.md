@@ -68,12 +68,12 @@ Meu objetivo é aproximar o conhecimento adquirido em desenvolvimento de softwar
 
 <!-- Substitua SEU_USUARIO_GITHUB pelo seu login de GitHub. -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Resumo do perfil GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymurata2&theme=tokyonight" alt="Resumo do perfil GitHub" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Linguagens dos repositórios" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ymurata2&theme=tokyonight" alt="Estatísticas do GitHub" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ymurata2&theme=tokyonight" alt="Linguagens dos repositórios" height="160" />
 </p>
 
 ---
