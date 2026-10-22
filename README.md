@@ -81,5 +81,6 @@ Meu objetivo é aproximar o conhecimento adquirido em desenvolvimento de softwar
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio%20Murata-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-murata-8204b338a/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-Julio%20Murata-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/julio-murata-8204b338a/](https://www.instagram.com/jmurata_))
 
 Sempre interessado em aprender, colaborar e trocar experiências sobre **tecnologia e cibersegurança**.
